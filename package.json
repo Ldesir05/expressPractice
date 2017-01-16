@@ -1,0 +1,15 @@
+{
+  "name": "myexpressapp",
+  "version": "1.0.0",
+  "description": "this is testing diffrent route handling ",
+  "main": "myExpressapp.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Limbert Desir",
+  "license": "ISC"
+}
